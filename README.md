@@ -1,25 +1,20 @@
-<![CDATA[<div align="center">
-
 # 🎬 Video Restoration Toolkit
 
 **AI-powered tools for video upscaling workflows — watermark removal, frame extraction, and batch automation.**
 
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![CUDA](https://img.shields.io/badge/CUDA-12.x-76B900?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
-[![License](https://img.shields.io/badge/License-Sponsors_Only-FF6B6B)](#license)
+[![License](https://img.shields.io/badge/License-Sponsors_Only-FF6B6B)](#-license)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github)](https://github.com/sponsors/CodingKittyreal)
 
----
-
 *Built for content creators who restore and upscale classic sports footage, vintage clips, and retro media to 4K.*
-
-</div>
 
 ---
 
 ## 🛠️ What's Inside
 
 ### 🔥 ProPainter Watermark Remover `sponsors only`
+
 GPU-accelerated batch watermark removal powered by [ProPainter](https://github.com/sczhou/ProPainter). Features an interactive mask editor with zoom/pan, automatic watermark detection, ROI-cropped processing for massive VRAM savings, and a beautiful dark-themed GUI.
 
 - ✅ Batch video processing queue
@@ -31,6 +26,7 @@ GPU-accelerated batch watermark removal powered by [ProPainter](https://github.c
 - ✅ Paste-list import for bulk loading
 
 ### 📸 Batch Last-Frame Extractor `free`
+
 Extract the final frame of every video in a folder as PNG/JPG. Perfect for creating thumbnail sheets or "before/after" stills for upscaling workflows.
 
 - ✅ Batch folder processing
@@ -39,6 +35,7 @@ Extract the final frame of every video in a folder as PNG/JPG. Perfect for creat
 - ✅ Dark-themed GUI with progress tracking
 
 ### 🎞️ Interval Frame Extractor `free`
+
 Extract every Nth frame from a single video. Ideal for creating training datasets, timelapse stills, or quality-check frames.
 
 - ✅ Configurable interval (every 1–30 frames)
@@ -51,13 +48,16 @@ Extract every Nth frame from a single video. Ideal for creating training dataset
 ## ⚡ Quick Start
 
 ### Frame Extractors (Free)
+
+No setup needed — just Python 3.12+ and FFmpeg in PATH
+
 ```bash
-# No setup needed — just Python 3.12+ and FFmpeg in PATH
 cd frame-extractor
 python batch_last_frame.py
 ```
 
 ### Watermark Remover (Sponsors)
+
 ```bash
 cd watermark-remover
 setup.bat          # One-time: creates venv, installs PyTorch + CUDA, clones ProPainter
@@ -65,7 +65,9 @@ run.bat            # Launch the GUI
 ```
 
 > 📖 **Full setup guide:** [docs/SETUP.md](docs/SETUP.md)
+
 > 📖 **Usage instructions:** [docs/USAGE.md](docs/USAGE.md)
+
 > 📖 **Troubleshooting:** [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)
 
 ---
@@ -94,11 +96,7 @@ Your support funds ongoing development, larger GPU testing, and new tool develop
 | 🔥 **Full Toolkit** | **$29/mo** | Everything above + **ProPainter Watermark Remover** · Interactive mask editor · Batch processing · Priority bug fixes |
 | 💎 **Creator Pro** | **$49/mo** | Everything above + Premiere Pro automation scripts · 1 feature request/month · Direct support |
 
-<div align="center">
-
 ### [❤️ Become a Sponsor](https://github.com/sponsors/CodingKittyreal)
-
-</div>
 
 ---
 
@@ -130,7 +128,7 @@ video-restoration-toolkit/
 
 ## ⚠️ Disclaimer
 
-This toolkit is provided **as-is** for personal and educational use. See [DISCLAIMER.md](DISCLAIMER.md) for full terms. The user is solely responsible for ensuring they have the right to process any video content.
+This toolkit is provided **"as-is"** for personal and educational use. See [DISCLAIMER.md](DISCLAIMER.md) for full terms. The user is solely responsible for ensuring they have the right to process any video content.
 
 ---
 
@@ -144,11 +142,6 @@ This repository uses a **custom sponsor-only license**. See [LICENSE.md](LICENSE
 
 ---
 
-<div align="center">
-
 **Built with ❤️ for the content restoration community**
 
 [⭐ Star this repo](../../stargazers) · [🐛 Report a bug](../../issues) · [💡 Request a feature](../../issues)
-
-</div>
-]]>
