@@ -45,7 +45,7 @@ Select a tier below to get instant access to the source code, installers, and au
         ✅ All future tool updates
       </p>
       <br>
-      <a href="https://github.com/sponsors/CodingKittyreal">
+      <a href="https://github.com/sponsors/CodingKittyreal/sponsorships?tier_id=ST_kwDOAtVuyM4ACYyb">
         <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor GitHub" />
       </a>
     </td>
@@ -61,7 +61,7 @@ Select a tier below to get instant access to the source code, installers, and au
         ✅ Early access to experimental builds
       </p>
       <br>
-      <a href="https://github.com/sponsors/CodingKittyreal">
+      <a href="https://github.com/sponsors/CodingKittyreal/sponsorships?tier_id=ST_kwDOAtVuyM4ACYyd">
         <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor GitHub" />
       </a>
     </td>
