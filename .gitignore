@@ -1,0 +1,32 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ProPainter (cloned separately during setup)
+watermark-remover/ProPainter/
+
+# Temp files
+watermark-remover/temp/
+*.tmp
+
+# Output files
+*.mp4
+*.avi
+*.mkv
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
