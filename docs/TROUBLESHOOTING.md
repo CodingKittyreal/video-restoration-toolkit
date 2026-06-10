@@ -85,7 +85,7 @@ git pull origin main
 
 ## Still Stuck?
 
-[Open an issue](https://github.com/nftmoondogs/video-restoration-toolkit/issues) with:
+[Open an issue](https://github.com/CodingKittyreal/video-restoration-toolkit/issues) with:
 1. Your OS version
 2. Python version (`python --version`)
 3. GPU model

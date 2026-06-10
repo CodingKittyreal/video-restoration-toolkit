@@ -2,7 +2,7 @@
 
 ## Video Restoration Toolkit — Custom License
 
-Copyright (c) 2026 nftmoondogs. All rights reserved.
+Copyright (c) 2026 CodingKittyreal. All rights reserved.
 
 ### Free Tools (frame-extractor/)
 

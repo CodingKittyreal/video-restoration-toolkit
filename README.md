@@ -7,7 +7,7 @@
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![CUDA](https://img.shields.io/badge/CUDA-12.x-76B900?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![License](https://img.shields.io/badge/License-Sponsors_Only-FF6B6B)](#license)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github)](https://github.com/sponsors/nftmoondogs)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github)](https://github.com/sponsors/CodingKittyreal)
 
 ---
 
@@ -96,7 +96,7 @@ Your support funds ongoing development, larger GPU testing, and new tool develop
 
 <div align="center">
 
-### [❤️ Become a Sponsor](https://github.com/sponsors/nftmoondogs)
+### [❤️ Become a Sponsor](https://github.com/sponsors/CodingKittyreal)
 
 </div>
 

@@ -21,7 +21,7 @@ These require only Python — no GPU or special setup needed.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/nftmoondogs/video-restoration-toolkit.git
+git clone https://github.com/CodingKittyreal/video-restoration-toolkit.git
 cd video-restoration-toolkit/frame-extractor
 
 # 2. Run the batch last-frame extractor
@@ -40,7 +40,7 @@ Alternatively, double-click `run_batch.bat` or `run_interval.bat`.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/nftmoondogs/video-restoration-toolkit.git
+git clone https://github.com/CodingKittyreal/video-restoration-toolkit.git
 cd video-restoration-toolkit/watermark-remover
 ```
 
