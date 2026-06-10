@@ -5,9 +5,68 @@
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![CUDA](https://img.shields.io/badge/CUDA-12.x-76B900?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![License](https://img.shields.io/badge/License-Sponsors_Only-FF6B6B)](#-license)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github)](https://github.com/sponsors/CodingKittyreal)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/posts/ai-restoration-15921195722)
 
 *Built for content creators who restore and upscale classic sports footage, vintage clips, and retro media to 4K.*
+
+---
+
+## ⚡ Choose Your Subscription Tier
+
+Select a tier below to get instant access to the source code, installers, and automation tools:
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>🌱 Free Tools</h3>
+      <p><b>$0 / month</b></p>
+      <hr>
+      <p align="left">
+        ✅ <b>Batch Last-Frame Extractor</b><br>
+        ✅ <b>Interval Frame Extractor</b><br>
+        ✅ Step-by-step setup guides<br>
+        ✅ Standard community updates
+      </p>
+      <br>
+      <a href="https://github.com/CodingKittyreal/video-restoration-toolkit/archive/refs/heads/master.zip">
+        <img src="https://img.shields.io/badge/Get_Started-Free-green?style=for-the-badge&logo=github" alt="Download Free" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>🔥 Full Toolkit</h3>
+      <p><b>$29 / month</b></p>
+      <hr>
+      <p align="left">
+        ✅ <b>ProPainter Watermark Remover</b><br>
+        ✅ Interactive Mask Editor (Zoom/Pan)<br>
+        ✅ Auto-detection with adjustable sensitivity<br>
+        ✅ ROI-cropped acceleration (VRAM-safe)<br>
+        ✅ Batch video processing queue<br>
+        ✅ All future tool updates
+      </p>
+      <br>
+      <a href="https://www.patreon.com/posts/ai-restoration-15921195722">
+        <img src="https://img.shields.io/badge/Subscribe-Patreon-orange?style=for-the-badge&logo=patreon" alt="Subscribe Patreon" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>💎 Creator Pro</h3>
+      <p><b>$49 / month</b></p>
+      <hr>
+      <p align="left">
+        ✅ <b>Everything in Full Toolkit</b><br>
+        ✅ <b>Premiere Pro Batch Exporter (AHK)</b><br>
+        ✅ 1 custom feature request / month<br>
+        ✅ Direct prioritize support<br>
+        ✅ Early access to experimental builds
+      </p>
+      <br>
+      <a href="https://www.patreon.com/posts/ai-restoration-15921195722">
+        <img src="https://img.shields.io/badge/Subscribe-Patreon-orange?style=for-the-badge&logo=patreon" alt="Subscribe Patreon" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,21 +141,6 @@ run.bat            # Launch the GUI
 | **CUDA** | 12.1 | 12.8 |
 | **FFmpeg** | 6.x | 8.x |
 | **RAM** | 8GB | 16GB+ |
-
----
-
-## 💖 Sponsor Tiers
-
-Your support funds ongoing development, larger GPU testing, and new tool development.
-
-| Tier | Price | What You Get |
-|------|-------|-------------|
-| 🌱 **Supporter** | Free | Sponsors badge · Updates · My appreciation |
-| 🎬 **Frame Tools** | Free | Access to Frame Extractor suite · Setup guides · All future updates |
-| 🔥 **Full Toolkit** | **$29/mo** | Everything above + **ProPainter Watermark Remover** · Interactive mask editor · Batch processing · Priority bug fixes |
-| 💎 **Creator Pro** | **$49/mo** | Everything above + Premiere Pro automation scripts · 1 feature request/month · Direct support |
-
-### [❤️ Become a Sponsor](https://github.com/sponsors/CodingKittyreal)
 
 ---
 
