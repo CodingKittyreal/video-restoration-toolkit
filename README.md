@@ -5,7 +5,7 @@
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![CUDA](https://img.shields.io/badge/CUDA-12.x-76B900?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![License](https://img.shields.io/badge/License-Sponsors_Only-FF6B6B)](#-license)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/posts/ai-restoration-15921195722)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github)](https://github.com/sponsors/CodingKittyreal)
 
 *Built for content creators who restore and upscale classic sports footage, vintage clips, and retro media to 4K.*
 
@@ -45,8 +45,8 @@ Select a tier below to get instant access to the source code, installers, and au
         ✅ All future tool updates
       </p>
       <br>
-      <a href="https://www.patreon.com/posts/ai-restoration-15921195722">
-        <img src="https://img.shields.io/badge/Subscribe-Patreon-orange?style=for-the-badge&logo=patreon" alt="Subscribe Patreon" />
+      <a href="https://github.com/sponsors/CodingKittyreal">
+        <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor GitHub" />
       </a>
     </td>
     <td align="center" valign="top" width="33%">
@@ -61,8 +61,8 @@ Select a tier below to get instant access to the source code, installers, and au
         ✅ Early access to experimental builds
       </p>
       <br>
-      <a href="https://www.patreon.com/posts/ai-restoration-15921195722">
-        <img src="https://img.shields.io/badge/Subscribe-Patreon-orange?style=for-the-badge&logo=patreon" alt="Subscribe Patreon" />
+      <a href="https://github.com/sponsors/CodingKittyreal">
+        <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor GitHub" />
       </a>
     </td>
   </tr>
